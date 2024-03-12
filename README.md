@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Md Mosiur Rahman Romel</h1>
 <h3 align="center">A passionate Frontend Developer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=romel180149&label=Profile%20views&color=0e75b6&style=flat" alt="romel180149" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romel180149" alt="romel180149" /></a> </p>
+
 - 🔭 I’m currently working on **Social media**
 
 - 🌱 I’m currently learning **Redux-Toolkit**
 
-- 👯 I’m looking to collaborate on [Food_Sharing](https://food-sharing-d03a5.web.app/)
+- 👯 I’m looking to collaborate on **## Collaboration I'm actively seeking opportunities for collaboration. If you have any projects or ideas you'd like to work on together, feel free to reach out!**
 
 - 💬 Ask me about **reactjs,nodejs,expressjs,mongoDB**
 
