@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romel180149&label=Profile%20views&color=0e75b6&style=flat" alt="romel180149" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romel180149" alt="romel180149" /></a> </p>
-
 - 🔭 I’m currently working on **Social media**
 
 - 🌱 I’m currently learning **Redux-Toolkit**
 
-- 👯 I’m looking to collaborate on **## Collaboration I'm actively seeking opportunities for collaboration. If you have any projects or ideas you'd like to work on together, feel free to reach out!**
+- 👯 I’m looking to collaborate on **I'm actively seeking opportunities for collaboration. If you have any projects or ideas you'd like to work on together, feel free to reach out!**
 
-- 💬 Ask me about **reactjs,nodejs,expressjs,mongoDB**
+- 💬 Ask me about **Reactjs,Nodejs,Expressjs,MongoDB**
 
 - 📫 How to reach me **md.mosiur.rahman.romel@gmail.com**
 
@@ -32,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romel180149&show_icons=true&locale=en&layout=compact" alt="romel180149" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=romel180149&show_icons=true&locale=en" alt="romel180149" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romel180149&" alt="romel180149" /></p>
