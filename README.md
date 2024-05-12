@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romel180149&label=Profile%20views&color=0e75b6&style=flat" alt="romel180149" /> </p>
 
-- 🔭 I’m currently working on [my final year project named social media](https://github.com/Romel180149/social-media-client)
+- 🔭 I’m currently working on [User interaction with farmer project](https://github.com/Romel180149/social-media-client)
 
 - 🌱 I’m currently learning **Redux-Toolkit,Nextjs**
 
