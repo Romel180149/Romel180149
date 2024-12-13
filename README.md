@@ -90,10 +90,6 @@ You can reach me via email at [md.mosiur.rahman.romel@gmail.com](mailto:md.mosiu
   <a href="https://linkedin.com/in/md-mosiur-rahman-romel" target="_blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect with me on LinkedIn" height="30" width="40" />
   </a>
-    <!-- Codeforces -->
-  <a href="https://codeforces.com/profile/mosiur" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces - Mosiur Rahman Romel" height="30" width="40" />
-  </a>
 </p>
 
 
