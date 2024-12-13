@@ -1,5 +1,18 @@
-<h1 align="center">Hello, I'm Md Mosiur Rahman Romel</h1>
-<h3 align="center">A Full Stack Developer Specializing in Scalable Web Applications</h3>
+<!-- Header with Photo and Introduction -->
+<table>
+  <tr>
+    <!-- Photo Section -->
+    <td>
+      <img src="https://i.ibb.co.com/TLfTmvL/IMG-20241115-144146.jpg" alt="Md Mosiur Rahman Romel" width="600" height="300" style="border-radius: 50%; margin-right: 50px;" />
+    </td>
+    <!-- Text Section -->
+    <td>
+      <h1>Hello, I'm Md Mosiur Rahman Romel</h1>
+      <h3>A Full Stack Developer Specializing in Scalable Web Applications</h3>
+    </td>
+  </tr>
+</table>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=romel180149&label=Profile%20views&color=0e75b6&style=flat)
 
