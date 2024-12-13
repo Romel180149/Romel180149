@@ -19,6 +19,48 @@ I'm expanding my knowledge by learning **Redux Toolkit** and **Next.js** to enha
 I’m actively looking for collaboration opportunities! If you have interesting projects or ideas, feel free to reach out—I’d love to contribute and learn together.
 
 ---
+<h3 align="left">🛠️ Technical Skills</h3>
+
+<p align="left">
+  <!-- Programming Languages -->
+  <strong>Languages:</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="margin: 10px;" />
+</p>
+
+<p align="left">
+  <!-- Frameworks & Libraries -->
+  <strong>Frameworks & Libraries:</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" style="margin: 10px;" />
+</p>
+
+<p align="left">
+  <!-- Databases -->
+  <strong>Databases:</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin: 10px;" />
+</p>
+
+<p align="left">
+  <!-- Tools & Platforms -->
+  <strong>Tools & Platforms:</strong><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/visualstudiocode.svg" alt="VS Code" width="40" height="40" style="margin: 10px;" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin: 10px;" />
+</p>
+
+
+
+<strong>APIs & Authentications:</strong><br>  
+  REST APIs, JWT Authentication, Firebase Authentication
 ## 📫 Contact me
 You can reach me via email at [md.mosiur.rahman.romel@gmail.com](mailto:md.mosiur.rahman.romel@gmail.com).
 ---
