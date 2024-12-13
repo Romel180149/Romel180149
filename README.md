@@ -26,13 +26,9 @@ You can reach me via email at [md.mosiur.rahman.romel@gmail.com](mailto:md.mosiu
 <h3 align="left">🌐 Connect with Me</h3>
 <p align="left">Feel free to reach out for collaboration, networking, or discussing exciting projects!</p>
 <p align="left">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/md-mosiur-rahman-romel" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect with me on LinkedIn" height="30" width="40" />
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/romel180149" target="_blank" style="margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Check out my GitHub" height="30" width="40" />
+    <!-- LeetCode -->
+  <a href="https://leetcode.com/your_leetcode_username" target="_blank" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode - Romel" height="30" width="40" />
   </a>
   <!-- HackerRank -->
   <a href="https://www.hackerrank.com/@m_r_romel" target="_blank" style="margin: 0 10px;">
@@ -42,11 +38,16 @@ You can reach me via email at [md.mosiur.rahman.romel@gmail.com](mailto:md.mosiu
   <a href="https://www.codechef.com/users/romel" target="_blank" style="margin: 0 10px;">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef - Romel" height="30" width="40" />
   </a>
-  <!-- Codeforces -->
+    <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/md-mosiur-rahman-romel" target="_blank" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Connect with me on LinkedIn" height="30" width="40" />
+  </a>
+    <!-- Codeforces -->
   <a href="https://codeforces.com/profile/mosiur" target="_blank" style="margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces - Mosiur Rahman Romel" height="30" width="40" />
   </a>
 </p>
+
 
 
 ------
